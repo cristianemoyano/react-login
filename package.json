@@ -9,7 +9,7 @@
     "stylus": "^0.54.5"
   },
   "dependencies": {
-    "auth0-js": "^9.11.3",
+    "auth0-js": "^9.13.2",
     "history": "^4.5.1",
     "jwt-decode": "^2.2.0",
     "react": "^15.4.2",
